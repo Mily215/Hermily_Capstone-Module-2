@@ -8,10 +8,10 @@ This repository provides a Jupyter notebook (.ipynb file) used to analyze and vi
 
 ## **Problem Statement**
 
-1. Understanding the distribution of Variables such as trip duration, distance, passenger count,fare and tip amount
-2. Identifying total trips count of each Vendor: Examining if the distribution of trips are balanced between vendors
-3. Evaluating Payment Methods: Identifying preferred payment methods
-4. Analyzing high-traffic time and location: Identifying distribution of trips within a day, a week, and Pick-up zone
+1. Understanding the distribution of Variables such as trip duration, distance, passenger count,fare and tip amount.
+2. Identifying total trips count of each Vendor: Examining if the distribution of trips are balanced between vendors.
+3. Evaluating Payment Methods: Identifying preferred payment methods.
+4. Analyzing high-traffic time and location: Identifying distribution of trips within a day, a week, and Pick-up zone.
 
 ## Dataset Description
 
